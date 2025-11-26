@@ -11,7 +11,7 @@
 ---
 
 ## 🙌 About Me
-I’m a Software Engineering Analyst with three years of professional experience at Accenture. I work with Java and Spring Boot to build efficient applications and backend services. I enjoy solving real problems, optimizing performance, and collaborating across teams to deliver meaningful results.
+I’m a Software Engineering Analyst with four years of professional experience at Accenture. I work with Java and Spring Boot to build efficient applications and backend services. I enjoy solving real problems, optimizing performance, and collaborating across teams to deliver meaningful results.
 
 ---
 
