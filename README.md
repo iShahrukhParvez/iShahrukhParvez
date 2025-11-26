@@ -11,24 +11,24 @@
 ---
 
 ## 🙌 About Me
-I’m a Software Engineering Analyst with four years of professional experience at Accenture. I work with Java and Spring Boot to build efficient applications and backend services. I enjoy solving real problems, optimizing performance, and collaborating across teams to deliver meaningful results.
+I’m a Software Engineering Analyst with four years of professional experience. I work with Java and Spring Boot to build efficient applications and backend services. I enjoy solving real problems, optimizing performance, and collaborating across teams to deliver meaningful results.
 
 ---
 
 ## 🧰 Tech Stack
 
-**🖥️ Programming**
+**🖥️ Programming:**
 Java, Spring Boot, HTML, CSS, Bootstrap, JavaScript, React, MySQL
 
-**🔧 Tools & Technologies**
+**🔧 Tools & Technologies:**
 Appian Automation, Reltio, Postman, JIRA, SonarQube, GitHub
 
-**🧩 Strengths**
+**🧩 Strengths:**
 Analytical thinking, debugging, risk management, prioritization, clean code, communication
 
 ---
 
-## 🚀 Experience
+<!-- ## 🚀 Experience
 
 ### 👨‍💻 Java Developer | Accenture | 2022–2025
 - Built and maintained Spring Boot web applications to improve UX and functionality  
@@ -40,8 +40,7 @@ Analytical thinking, debugging, risk management, prioritization, clean code, com
 - Monitored applications and resolved production issues  
 - Reduced recurring systems problems  
 - Achieved a 20 percent improvement in incident resolution time  
-
----
+--- 
 
 ## 🎓 Education  
 **B.E. in Computer Science Engineering**
@@ -61,7 +60,7 @@ Activities:
 - I sometimes talk to my compiler when it misbehaves  
 - I write code that even future me understands    
 
----
+--- -->
 
 ## 🤝 Let’s Connect
 If you’re working on something interesting or want to collaborate, just reach out.
